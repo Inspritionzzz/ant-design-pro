@@ -4,7 +4,7 @@ export default {
   'menu.home': '首頁',
   'menu.admin': '权限',
   'menu.admin.sub-page': '二级管理页',
-  'menu.login': '登錄',
+  'menu.': '登錄',
   'menu.register': '註冊',
   'menu.register-result': '註冊結果',
   'menu.dashboard': 'Dashboard',

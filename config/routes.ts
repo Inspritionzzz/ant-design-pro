@@ -54,4 +54,22 @@ export default [
     path: '*',
     component: './404',
   },
+  {
+    path: '/index',
+    name: 'NewPages',
+    icon: 'form',
+    component: '@/pages/NewPages',
+  },
+  {
+    path: '/antv2',
+    name: 'NewPages2',
+    icon: 'form',
+    component: '@/pages/NewPages2',
+  },
+  {
+    path: '/antv3',
+    name: 'NewPages3',
+    icon: 'form',
+    component: '@/pages/NewPages3',
+  },
 ];
