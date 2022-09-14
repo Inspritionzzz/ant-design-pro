@@ -72,4 +72,10 @@ export default [
     icon: 'form',
     component: '@/pages/NewPages3',
   },
+  {
+    path: '/ex01',
+    name: 'example01',
+    icon: 'form',
+    component: '@/pages/example01',
+  },
 ];
